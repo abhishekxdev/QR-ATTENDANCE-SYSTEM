@@ -2,7 +2,7 @@
 
 # QR Attendance System
 
-![image](https://github.com/AzeemIdrisi/QR-Attendance-System/assets/112647789/dbc0c061-76d0-45bb-b5da-7f4373ffd073)
+
 
 </div>
 
@@ -136,16 +136,7 @@ Before you begin, ensure you have the following prerequisites installed:
 
    The attendance records will be updated in real-time, ensuring accurate tracking.
 
-## Screenshots
 
-### Admin Page
-![image](https://github.com/AzeemIdrisi/QR-Attendance-System/assets/112647789/e4c9f2d8-6b8e-44de-a63d-f7e5db45383e)
-
-### Student Page
-![image](https://github.com/AzeemIdrisi/QR-Attendance-System/assets/112647789/a8e2f4a7-831c-4ac5-8e1b-c917a9ca9001)
-
-### Submission Successful Page
-![image](https://github.com/AzeemIdrisi/QR-Attendance-System/assets/112647789/0f77779e-7648-4356-84c0-7db58b3e786c)
 
 
 ## Contributions
